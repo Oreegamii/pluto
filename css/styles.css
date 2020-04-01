@@ -1,7 +1,7 @@
 
 
 body {
-  background-color:  #f4eeff;
+  background-color:  #d7fffd;
 }
 
 h1 {
@@ -14,13 +14,13 @@ h3 {
 
 .styled, .path {
     border: 0;
-    line-height: 2.5;
+    line-height: 1.5;
     padding: 0 20px;
     font-size: 1rem;
     text-align: center;
     color: #fff;
     text-shadow: 1px 1px 1px #000;
-    border-radius: 10px;
+    border-radius: 15px;
     background-color: rgba(220, 0, 0, 1);
     background-image: linear-gradient(to top left,
                                       rgba(0, 0, 0, .2),
